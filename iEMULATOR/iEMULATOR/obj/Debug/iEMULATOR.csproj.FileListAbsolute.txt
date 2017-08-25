@@ -1,0 +1,26 @@
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\bin\Debug\iEMULATOR.exe.config
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.csprojResolveAssemblyReference.cache
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Form1.resources
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmMainIO.resources
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmMainPrgs.resources
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Properties.Resources.resources
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.csproj.GenerateResource.Cache
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\bin\Debug\iEMULATOR.exe
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\bin\Debug\iEMULATOR.pdb
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.exe
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.pdb
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmStart.resources
+C:\Users\kevin jimenez\Documents\Visual Studio 2013\Projects\PROGRA4\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmSO.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\bin\Debug\iEMULATOR.exe.config
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.exe
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.pdb
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\bin\Debug\iEMULATOR.exe
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\bin\Debug\iEMULATOR.pdb
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.csprojResolveAssemblyReference.cache
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Form1.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmMainIO.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmMainPrgs.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmSO.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Forms.wfrmStart.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.Properties.Resources.resources
+C:\Users\OKT-Developer\Desktop\iEMULATOR\iEMULATOR\obj\Debug\iEMULATOR.csproj.GenerateResource.Cache
